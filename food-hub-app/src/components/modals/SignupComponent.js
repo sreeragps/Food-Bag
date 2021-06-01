@@ -2,18 +2,13 @@ import React from 'react'
 import './signupComponent.css'
 
 const SignupComponent = () => {
-    let modal1 = document.getElementById("myModal1");
-   
+       
     function openModal1() {
-        modal1.style.display = "block";
+        document.getElementById("myModal1").style.display = "block";
     }
-    window.onClick = function (event) {
-        if (event.target == modal1) {
-            modal1.style.display = "none"
-        }
-    }
+    
     function closeModal1() {
-        modal1.style.display = "none";
+        document.getElementById("myModal1").style.display = "none";
     }
     return (
         <div className='signup-component-container'>
