@@ -1,0 +1,8 @@
+.mainpage-body-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: lightblue url("https://i.postimg.cc/NFb9QM8c/foooooo.png") no-repeat fixed center; 
+    background-size: cover;
+    height:85vh;
+}
