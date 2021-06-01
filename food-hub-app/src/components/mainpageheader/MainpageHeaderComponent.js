@@ -1,7 +1,7 @@
 import React from 'react'
 import './mainpageHeaderComponent.css'
-import SigninComponent from './modals/SigninComponent'
-import SignupComponent from './modals/SignupComponent'
+import SigninComponent from '../modals/SigninComponent'
+import SignupComponent from '../modals/SignupComponent'
 
 const MainpageHeaderComponent=()=>{
 

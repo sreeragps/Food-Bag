@@ -1,0 +1,23 @@
+.mainpage-body-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('https://i.postimg.cc/9QKwdTVJ/oie-floaties-1.gif'); 
+    background-size: cover;
+    height:85vh;
+    background-repeat: repeat;
+	background-position: 
+		0 50%;
+		
+	background-size: 
+		1000px 600px;
+		
+	animation: 13s para infinite linear ;
+}
+@keyframes para {
+	100% {
+		background-position: 
+        1500px 100%;
+       
+		}
+    }

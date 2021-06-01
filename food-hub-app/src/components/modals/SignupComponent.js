@@ -2,7 +2,7 @@ import React from 'react'
 import './signupComponent.css'
 
 const SignupComponent = () => {
-    var modal1 = document.getElementById("myModal1");
+    let modal1 = document.getElementById("myModal1");
    
     function openModal1() {
         modal1.style.display = "block";

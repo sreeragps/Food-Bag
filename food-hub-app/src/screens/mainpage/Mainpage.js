@@ -1,6 +1,6 @@
 import React from 'react'
-import MainpageHeaderComponent from '../components/MainpageHeaderComponent'
-import MainpageBodyComponent from '../components/MainpageBodyComponent'
+import MainpageHeaderComponent from '../../components/mainpageheader/MainpageHeaderComponent'
+import MainpageBodyComponent from '../../components/mainpagebody/MainpageBodyComponent'
 const Mainpage=()=>{
 
     return(
