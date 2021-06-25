@@ -4,9 +4,9 @@ import Mainpage from './screens/mainpage/Mainpage'
 function App() {
   return (
        
-       <Mainpage/>
+         <Mainpage/>
        
-  );
+       );
 }
 
 export default App;

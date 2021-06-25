@@ -8,7 +8,7 @@ const MainpageHeaderComponent=()=>{
     return(
         <div className='mainpage-header-container'>
             <div className='mainpage-header-title'>
-            <h3><em>Zomato</em></h3>
+            <h3><em>FOODBAG</em></h3>
             </div>
             <div className='mainpage-header-modals'>
              <SigninComponent/>
